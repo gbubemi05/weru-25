@@ -90,8 +90,7 @@ body {
 }
 .section-get-invite {
   background-image: url(./images/pic1.png);
-  height: 100vw;
-  background-size: contain;
+  height: 50vw;
   background-repeat: no-repeat;
   /* background-attachment: fixed; */
   background-position: center;
